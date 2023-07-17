@@ -109,7 +109,7 @@ De actuele versie van het koppelvlak betreft de 1.0.0-versie. Documentatie van e
 	</thead>
 	<tbody>
 		{% for i in page.folder_files %}
-			{% if i.group == 091 %} 
+			{% if i.group == "091" %} 
 				<tr>
 					<td>
 					  <a href="{{ i.path | base_url }}">
@@ -135,7 +135,7 @@ De actuele versie van het koppelvlak betreft de 1.0.0-versie. Documentatie van e
 	</thead>
 	<tbody>
 		{% for i in page.folder_files %}
-			{% if i.group == 090 %} 
+			{% if i.group == "090" %} 
 				<tr>
 					<td>
 					  <a href="{{ i.path | base_url }}">
