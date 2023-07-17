@@ -26,51 +26,45 @@ folder_files:
     versie: 1.0
     status: Definitief
     omschrijving: 
-  - title: StUF familiecriteria conformiteit kadastrale mutatie-services
-    path: documenten/StUF_familiecriteria_conformiteit_kadastrale_mutatie-services_0.2.pdf
-    group: 091
-    versie: 1.0
-    status: Definitief
-    omschrijving: 
   - title: Kadastrale mutatieservices - Koppelvlakspecificatie
     path: documenten/Koppelvlakspecificatie_Kadastrale_mutatieservices_v0.9.1_20160518.pdf
-    group: 091
+    group: "091"
     versie: 0.9.1
     status: "In bewerking"
     omschrijving: 
   - title: Kadastrale mutatieservices - Koppelvlakspecificatie - met wijzigingen tov versie 0.9
     path: documenten/Koppelvlakspecificatie_Kadastrale_mutatieservices_v0.9.1_20160518_met_renvooi_tov_9.0.pdf
-    group: 091
+    group: "091"
     versie: 0.9.1
     status: "In bewerking"
     omschrijving: 
   - title: Kadastrale mutatieservices 0.9.1 - Berichtschemas
     path: documenten/18-05-2016Berichtschema_brk.zip
-    group: 091
+    group: "091"
     versie: 0.9.1
     status: "Ter vaststelling"
     omschrijving: 
   - title: Koppelvlak Kadastrale mutatieservices - Reacties en verwerking consultatie op v0.9
     path: documenten/Koppelvlak_Kadastrale_mutatieservices_-_Reacties_en_verwerking_consultatie_v0.9_20160518.pdf
-    group: 091
+    group: "091"
     versie: 
     status: Definitief
     omschrijving: 
   - title: Kadastrale mutatieservices - Berichtschema's
     path: documenten/Berichtschema_brk.zip
-    group: 090
+    group: "090"
     versie: 0.9
     status: "In bewerking"
     omschrijving: 
   - title: Kadastrale mutatieservices - Koppelvlakspecificatie 0.9
     path: documenten/Koppelvlakspecificatie_Kadastrale_mutatieservices_v0.9_20160201.pdf
-    group: 090
+    group: "090"
     versie: 0.9
     status: "In bewerking"
     omschrijving: 
   - title: Kadastrale mutatieservices - Reviewformulier
     path: documenten/Reactie-formulier_openbare_consultatie_Kadastrale_Mutaties.zip
-    group: 090
+    group: "090"
     versie: 1.0
     status: Definitief
     omschrijving: 
