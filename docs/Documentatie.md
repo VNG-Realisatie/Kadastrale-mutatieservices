@@ -26,6 +26,12 @@ folder_files:
     versie: 1.0
     status: Definitief
     omschrijving: 
+  - title: StUF familiecriteria conformiteit kadastrale mutatie-services
+    path: documenten/StUF_familiecriteria_conformiteit_kadastrale_mutatie-services_0.2.pdf
+    group: 091
+    versie: 1.0
+    status: Definitief
+    omschrijving: 
   - title: Kadastrale mutatieservices - Koppelvlakspecificatie
     path: documenten/Koppelvlakspecificatie_Kadastrale_mutatieservices_v0.9.1_20160518.pdf
     group: 091
