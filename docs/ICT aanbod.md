@@ -11,7 +11,7 @@ Met leveranciers zijn nog geen afspraken gemaakt over implementatie van deze sta
 In de GEMMA Softwarecatalogus vindt u een overzicht van alle softwareproducten waarvan de leveranciers hebben aangegeven de standaard StUF-koppelvlak Kadastrale mutatieservices te ondersteunen.
 
 ## Wanneer voldoet een softwareproduct aan deze standaard?
-Om te kunnen sturen op kwalitatief goede inbouw van standaarden en het risico op interoperabiliteitsproblemen bij gemeenten preventief te verkleinen gaat KING voor het StUF-koppelvlak Kadastrale mutatieservices een testset ontwikkelen. Een softwareproduct is compliant aan dit koppelvlak indien de voorgeschreven testen uit de testset foutloos zijn uitgevoerd, de finale testrapportages uit het StUF Testplatform op internet geplaatst zijn en in de GEMMA softwarecatalogus de link opgenomen is naar deze rapportages.
+Om te kunnen sturen op kwalitatief goede inbouw van standaarden en het risico op interoperabiliteitsproblemen bij gemeenten preventief te verkleinen gaat VNG Realisatie voor het StUF-koppelvlak Kadastrale mutatieservices een testset ontwikkelen. Een softwareproduct is compliant aan dit koppelvlak indien de voorgeschreven testen uit de testset foutloos zijn uitgevoerd, de finale testrapportages uit het StUF Testplatform op internet geplaatst zijn en in de GEMMA softwarecatalogus de link opgenomen is naar deze rapportages.
 
 ## Hoe weet u welke leveranciers het koppelvlak beschikbaar hebben?
 De GEMMA Softwarecatalogus biedt u in twee simpele stappen een overzicht van softwareapplicaties die de standaard StUF-koppelvlak Kadastrale mutatieservices ondersteunen:

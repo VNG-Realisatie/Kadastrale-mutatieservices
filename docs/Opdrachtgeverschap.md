@@ -14,7 +14,7 @@ De leverancier beschrijft expliciet of er beperkingen zijn t.a.v. de verstrekkin
 3. De aangeboden applicatie ondersteunt de transformatie van BRK Levering naar Kadastrale mutatieservices overeenkomstig de specificaties in het StUF-koppelvlak ‘Kadastrale mutatieservices’.
 
 ## Borging dat het koppelvlak ook daadwerkelijk wordt geleverd
-KING heeft de Handreiking leverings- en acceptatievoorwaarden ICT opgesteld. Dit document biedt u een set van artikelen die u geheel of gedeeltelijk kunt inweven in eigen inkoop- en acceptatievoorwaarden ICT. Hiermee borgt u dat in de uitvraag expliciet wordt gevraagd om het leveren van de standaard en het voldoen aan de compliancy. Meer informatie hierover leest u op de pagina's ICT-opdrachtgeverschap op de KING-website en Inkoopondersteuning in de GEMMA Softwarecatalogus.
+VNG Realisatie heeft de Handreiking leverings- en acceptatievoorwaarden ICT opgesteld. Dit document biedt u een set van artikelen die u geheel of gedeeltelijk kunt inweven in eigen inkoop- en acceptatievoorwaarden ICT. Hiermee borgt u dat in de uitvraag expliciet wordt gevraagd om het leveren van de standaard en het voldoen aan de compliancy. Meer informatie hierover leest u op de pagina's ICT-opdrachtgeverschap op de VNG Realisatie-website en Inkoopondersteuning in de GEMMA Softwarecatalogus.
 
 ## Te maken afspraken bij implementatie
 Voor een goede implementatie van de koppelvlakstandaard is het relevant te bepalen van welke services op welke wijze voor een desbetreffende applicatie gebruik gemaakt gaat worden. Over de volgende onderwerpen moeten voor de implementatie afspraken worden gemaakt. Deze lijst is niet limitatief.
