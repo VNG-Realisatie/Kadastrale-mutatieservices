@@ -4,6 +4,8 @@ title: StUF-koppelvlak Kadastrale mutatieservices
 ---
 # StUF-koppelvlak Kadastrale mutatieservices
 
+**Actuele versie:** 1.0.0  
+
 De Basisregistratie Kadaster (BRK) maakt deel uit van het stelsel van basisregistraties en is de afgelopen jaren vernieuwd. Actuele kadastrale gegevens zijn essentieel voor meerdere gemeentelijke taken. De structuur van de basisregistratie en de wijze waarop mutaties hieruit verstrekt worden, is veranderd. Tot 1 januari 2016 leverde het Kadaster de kadastrale mutaties nog in MO-AKR- en LKI-formaat ('alfanumeriek' resp. 'grafisch'). Inmiddels levert het Kadaster de mutaties in het op de BRK afgestemde formaat: [BRK Levering](http://www.kadaster.nl/web/Themas/Registraties/BRK/BRK-Leveringartikelen/BRK-Levering-vervangt-Massale-output.htm). Vanaf 1-1-2016 is dit het enige formaat waarin het Kadaster deze mutaties levert.
 
 ## Inleiding
@@ -47,7 +49,7 @@ Gebeurtenissen waarbij geen sprake is van het overgaan van kadastrale objecten (
 - Wijziging kadastraal object: wijziging van twee of meer groepen van gegevens (kadastraal objectgegevens, zakelijke rechten met bijbehorende aantekeningen, kadastraal object aantekeningen) van één of meer kadastrale objecten.
 
 ## Actuele versie
-De actuele versie van het koppelvlak is de 1.0-versie. Deze is op 1 juni 2016, na openbare consultatie, door de Regiegroep Gegevens- en Berichtenstandaarden vastgesteld. Deze versie is door VNG Realisatie ontwikkeld onder begeleiding van twee werkgroepen: een werkgroep van gemeenten en één van leveranciers. Als gemeentelijke werkgroep fungeerde de Expertgroep BRK van het [Gemeentelijk Geo-Beraad](http://dataland.nl/onze-diensten/gemeentelijk-geo-beraad/).
+De actuele versie van het koppelvlak is de 1.0-versie. Deze is op 1 juni 2016, na openbare consultatie, door de Regiegroep Gegevens- en Berichtenstandaarden vastgesteld. Deze versie is door VNG Realisatie ontwikkeld onder begeleiding van twee werkgroepen: een werkgroep van gemeenten en één van de leveranciers. Als gemeentelijke werkgroep fungeerde de Expertgroep BRK van het [Gemeentelijk Geo-Beraad](http://dataland.nl/onze-diensten/gemeentelijk-geo-beraad/).
 De koppelvlakspecificatie en de berichtschema’s treft u aan onder 'Documentatie'.
 
 ## Doorontwikkeling
