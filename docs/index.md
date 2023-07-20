@@ -5,6 +5,7 @@ title: StUF-koppelvlak Kadastrale mutatieservices
 # StUF-koppelvlak Kadastrale mutatieservices
 
 **Actuele versie:** 1.0.0  
+**Beheerder**  VNG Realisatie<br/>
 
 De Basisregistratie Kadaster (BRK) maakt deel uit van het stelsel van basisregistraties en is de afgelopen jaren vernieuwd. Actuele kadastrale gegevens zijn essentieel voor meerdere gemeentelijke taken. De structuur van de basisregistratie en de wijze waarop mutaties hieruit verstrekt worden, is veranderd. Tot 1 januari 2016 leverde het Kadaster de kadastrale mutaties nog in MO-AKR- en LKI-formaat ('alfanumeriek' resp. 'grafisch'). Inmiddels levert het Kadaster de mutaties in het op de BRK afgestemde formaat: [BRK Levering](http://www.kadaster.nl/web/Themas/Registraties/BRK/BRK-Leveringartikelen/BRK-Levering-vervangt-Massale-output.htm). Vanaf 1-1-2016 is dit het enige formaat waarin het Kadaster deze mutaties levert.
 
