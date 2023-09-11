@@ -53,8 +53,8 @@ Gebeurtenissen waarbij geen sprake is van het overgaan van kadastrale objecten (
 De actuele versie van het koppelvlak is de 1.0-versie. Deze is op 1 juni 2016, na openbare consultatie, door de Regiegroep Gegevens- en Berichtenstandaarden vastgesteld. Deze versie is door VNG Realisatie ontwikkeld onder begeleiding van twee werkgroepen: een werkgroep van gemeenten en één van de leveranciers. Als gemeentelijke werkgroep fungeerde de Expertgroep BRK van het [Gemeentelijk Geo-Beraad](http://dataland.nl/onze-diensten/gemeentelijk-geo-beraad/).
 De koppelvlakspecificatie en de berichtschema’s treft u aan onder 'Documentatie'.
 
-## Doorontwikkeling
-De actuele versie (1.0) is afgeleid van StUF-BG 3.10 en daarmee van versie 2 van het RSGB dat op haar beurt afgeleid is van de AKR, de voorgaande structuur van de kadastrale registratie bij het Kadaster. Dat betekent dat de BRK-Levering wordt 'terugvertaald' naar StUF-BG 3.10 cq. RSGB 2 oftewel dat de actuele versie van het koppelvlak gericht is op de (MO-)AKR-structuur. In ontwikkeling is versie 3 van het RSGB dat v.w.b. kadastrale gegevens afgeleid wordt van (de structuur van) de BRK. Zo gauw als dit is vastgesteld tezamen met de daarvan af te leiden nieuwe StUF-BG-versie (3.20 of 4.0, n.t.b.), wordt het koppelvlak doorontwikkeld conform (de structuur van) de BRK. De verwachtingen zijn voorlopig dat dit in 2017 gaat plaatsvinden.
+## Afleiding
+De actuele versie (1.0) is afgeleid van StUF-BG 3.10 en daarmee van versie 2 van het RSGB dat op haar beurt afgeleid is van de AKR, de voorgaande structuur van de kadastrale registratie bij het Kadaster. Dat betekent dat de BRK-Levering wordt 'terugvertaald' naar StUF-BG 3.10 cq. RSGB 2 oftewel dat de actuele versie van het koppelvlak gericht is op de (MO-)AKR-structuur.
 
-## Ideeën en vragen
-Voor ideeen, wensen, vragen en fouten met betrekking tot het koppelvlak kunt u terecht op het discussieplatform StUF-koppelvlak Kadastrale Mutatieservices. Daarop werken we gezamenlijk aan oplossingen.
+## Discussieplatform
+Hier kunt u terecht voor de nieuwste discussies m.b.t. [StUF-koppelvlak Kadastrale Mutatieservices](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/Koppelvlak%20-%20KMS).
