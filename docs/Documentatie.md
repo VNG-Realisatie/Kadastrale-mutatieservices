@@ -30,6 +30,7 @@ folder_files:
     status: Definitief
     omschrijving: 
     datum: 20160601
+---
 <!--  - title: Kadastrale mutatieservices - Koppelvlakspecificatie
     path: documenten/Koppelvlakspecificatie_Kadastrale_mutatieservices_v0.9.1_20160518.pdf
     group: "091"
@@ -79,8 +80,8 @@ folder_files:
     status: Definitief
     omschrijving: 
     datum: -->
----
-# Documentatie StUF-koppelvlak Kadastrale mutatieservices
+
+    # Documentatie StUF-koppelvlak Kadastrale mutatieservices
 
 De actuele versie van het koppelvlak betreft de 1.0.0-versie. Documentatie van eerdere versies en van de wijzigingen die hebben geleid tot de actuele versie zijn verderop onder 'Archief' vermeld.
 
