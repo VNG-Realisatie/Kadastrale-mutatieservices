@@ -81,7 +81,7 @@ folder_files:
     omschrijving: 
     datum: -->
 
-    # Documentatie StUF-koppelvlak Kadastrale mutatieservices
+# Documentatie StUF-koppelvlak Kadastrale mutatieservices
 
 De actuele versie van het koppelvlak betreft de 1.0.0-versie. Documentatie van eerdere versies en van de wijzigingen die hebben geleid tot de actuele versie zijn verderop onder 'Archief' vermeld.
 
