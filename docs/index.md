@@ -16,7 +16,7 @@ Conform GEMMA vindt de binnengemeentelijke distributie van mutaties op basis- en
 ## Processen
 Het koppelvlak ondersteunt interacties tussen enerzijds het verstrekken door het Kadaster van de BRK Levering en anderzijds het verwerken van kadastrale mutaties bij enkele gemeentelijke bedrijfsprocessen. Dit betreffen vooral het voeren van het WOZ-beheer, het Wkpb-beheer en het beheer van de eigendommenadministratie. Andere betrokken bedrijfsprocessen kunnen zijn Vergunningen en ontheffingen, Grond aankopen, Opstellen bestemmingsplan, Toezicht houden en Sanctie opleggen. De verstrekking van de BRK Levering beïnvloedt de bedrijfsprocessen ieder voor zich. Er is hierbij niet sprake van onderlinge afhankelijkheid van die bedrijfsprocessen. De samenhang is aldus beperkt tot interacties tussen enerzijds de verstrekking van de BRK Levering en anderzijds individuele bedrijfsprocessen. We visualiseren dit in onderstaande figuur v.w.b. de meest relevante bedrijfsprocessen.
 
-<img src="./images/KadastraleMutatieServices_processen_v20160601.png" width="600"/>
+<img src="./images/KadastraleMutatieServices_processen_v20160601.png" width="800"/>
 
 ## Referentiecomponenten
 Het koppelvlak is van toepassing op referentiecomponenten voor het ontsluiten van basisgegevens (mid-office; ‘gegevensmagazijn’ en ‘geo-magazijn), het beheren van de WOZ-, Wkpb- en eigendommenadministratie (back-office) en eventuele andere referentiecomponenten waarvoor kadastrale mutaties relevant zijn. Dit betreffen:
