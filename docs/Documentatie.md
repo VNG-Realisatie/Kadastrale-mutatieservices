@@ -110,7 +110,7 @@ De actuele versie van het koppelvlak betreft de 1.0.0-versie. Documentatie van e
 		{% endfor %}
 	</tbody>
 </table>
-
+<!--
 ## Versie 0.9.1
 
 <table>
@@ -161,4 +161,4 @@ De actuele versie van het koppelvlak betreft de 1.0.0-versie. Documentatie van e
 			{% endif %} 
 		{% endfor %}
 	</tbody>
-</table>
+</table> -->
