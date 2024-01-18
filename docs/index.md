@@ -59,5 +59,14 @@ De koppelvlakspecificatie en de berichtschema’s treft u aan onder 'Documentati
 ## Afleiding
 De actuele versie (1.0) is afgeleid van StUF-BG 3.10 en daarmee van versie 2 van het RSGB dat op haar beurt afgeleid is van de AKR, de voorgaande structuur van de kadastrale registratie bij het Kadaster. Dat betekent dat de BRK-Levering wordt 'terugvertaald' naar StUF-BG 3.10 cq. RSGB 2 oftewel dat de actuele versie van het koppelvlak gericht is op de (MO-)AKR-structuur.
 
-## Discussieplatform
-Hier kunt u terecht voor de nieuwste discussies m.b.t. [StUF-koppelvlak Kadastrale Mutatieservices](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/Koppelvlak%20-%20KMS).
+## Community voor vragen en wijzigingsverzoeken
+
+Het kan voorkomen dat er nog onduidelijkheden zijn in de
+standaard StUF-koppelvlak Kadastrale Mutatieservices. Daarvoor is op Github een
+[community](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/Koppelvlak%20-%20KMS)
+beschikbaar gesteld waar u vragen kunt stellen door een issue aan te
+maken. Middels het label ‘Koppelvlak - KMS’ kunt u het issue
+vervolgens aan deze standaard koppelen.
+
+Zowel VNG Realisatie als leveranciers en gemeenten kunnen dan online
+reageren op de vraag en deze beantwoorden.
