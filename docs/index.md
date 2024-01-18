@@ -13,6 +13,7 @@ Tot 1 januari 2016 leverde het Kadaster de kadastrale mutaties nog in MO-AKR- en
 ## Inleiding
 Conform GEMMA vindt de binnengemeentelijke distributie van mutaties op basis- en kerngegevens plaats door middel van StUF-BG. Om hierin ook te kunnen voorzien voor kadastrale mutaties zoals opgenomen in de BRK Levering, heeft VNG Realisatie het Koppelvlak Kadastrale Mutatieservices ontwikkeld. Het specificeert een set van standaardservices waarmee de kadastrale mutaties, die het Kadaster in de vorm van de BRK-levering verstrekt, op basis van StUF-BG 3.10 gedistribueerd en verwerkt kunnen worden. De te distribueren gegevens zijn beschreven in versie 2 van het Referentiemodel Stelsel van Gemeentelijke Basisgegevens (RSGB).
 
+## Status en doorontwikkeling
 Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk om invulling te (blijven) geven aan de behoefte en wensen van gemeenten. De doorontwikkeling van de StUF standaard, de StUF sectormodellen en de StUF koppelvlakken waaronder het hier beschreven StUF-koppelvlak Kadastrale mutatieservices is daarom stopgezet. Alleen wetswijzigingen, wijzigingen in de Logische Ontwerpen van Basisregistraties en gevonden fouten kunnen aanleiding zijn voor het publiceren van een nieuwe versie van deze standaarden. Zo wordt er voor gezorgd dat gemeenten hun werk kunnen blijven doen. Een toelichting op het vernieuwen van de standaarden is te vinden bij API-standaarden.
 
 ## Processen
