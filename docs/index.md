@@ -13,6 +13,9 @@ Tot 1 januari 2016 leverde het Kadaster de kadastrale mutaties nog in MO-AKR- en
 ## Inleiding
 Conform GEMMA vindt de binnengemeentelijke distributie van mutaties op basis- en kerngegevens plaats door middel van StUF-BG. Om hierin ook te kunnen voorzien voor kadastrale mutaties zoals opgenomen in de BRK Levering, heeft VNG Realisatie het Koppelvlak Kadastrale Mutatieservices ontwikkeld. Het specificeert een set van standaardservices waarmee de kadastrale mutaties, die het Kadaster in de vorm van de BRK-levering verstrekt, op basis van StUF-BG 3.10 gedistribueerd en verwerkt kunnen worden. De te distribueren gegevens zijn beschreven in versie 2 van het Referentiemodel Stelsel van Gemeentelijke Basisgegevens (RSGB).
 
+## Status en doorontwikkeling
+Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk om invulling te (blijven) geven aan de behoefte en wensen van gemeenten. De doorontwikkeling van de StUF standaard, de StUF sectormodellen en de StUF koppelvlakken waaronder het hier beschreven StUF-koppelvlak Kadastrale mutatieservices is daarom stopgezet. Alleen wetswijzigingen, wijzigingen in de Logische Ontwerpen van Basisregistraties en gevonden fouten kunnen aanleiding zijn voor het publiceren van een nieuwe versie van deze standaarden. Zo wordt er voor gezorgd dat gemeenten hun werk kunnen blijven doen. Een toelichting op het vernieuwen van de standaarden is te vinden bij [API-standaarden](https://vng-realisatie.github.io/Standaarden/API-standaarden).
+
 ## Processen
 Het koppelvlak ondersteunt interacties tussen enerzijds het verstrekken door het Kadaster van de BRK Levering en anderzijds het verwerken van kadastrale mutaties bij enkele gemeentelijke bedrijfsprocessen. Dit betreffen vooral het voeren van het WOZ-beheer, het Wkpb-beheer en het beheer van de eigendommenadministratie. Andere betrokken bedrijfsprocessen kunnen zijn Vergunningen en ontheffingen, Grond aankopen, Opstellen bestemmingsplan, Toezicht houden en Sanctie opleggen. De verstrekking van de BRK Levering beïnvloedt de bedrijfsprocessen ieder voor zich. Er is hierbij niet sprake van onderlinge afhankelijkheid van die bedrijfsprocessen. De samenhang is aldus beperkt tot interacties tussen enerzijds de verstrekking van de BRK Levering en anderzijds individuele bedrijfsprocessen. We visualiseren dit in onderstaande figuur v.w.b. de meest relevante bedrijfsprocessen.
 
@@ -57,5 +60,14 @@ De koppelvlakspecificatie en de berichtschema’s treft u aan onder 'Documentati
 ## Afleiding
 De actuele versie (1.0) is afgeleid van StUF-BG 3.10 en daarmee van versie 2 van het RSGB dat op haar beurt afgeleid is van de AKR, de voorgaande structuur van de kadastrale registratie bij het Kadaster. Dat betekent dat de BRK-Levering wordt 'terugvertaald' naar StUF-BG 3.10 cq. RSGB 2 oftewel dat de actuele versie van het koppelvlak gericht is op de (MO-)AKR-structuur.
 
-## Discussieplatform
-Hier kunt u terecht voor de nieuwste discussies m.b.t. [StUF-koppelvlak Kadastrale Mutatieservices](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/Koppelvlak%20-%20KMS).
+## Community voor vragen en wijzigingsverzoeken
+
+Het kan voorkomen dat er nog onduidelijkheden zijn in de
+standaard StUF-koppelvlak Kadastrale Mutatieservices. Daarvoor is op Github een
+[community](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/Koppelvlak%20-%20KMS)
+beschikbaar gesteld waar u vragen kunt stellen door een issue aan te
+maken. Middels het label ‘Koppelvlak - KMS’ kunt u het issue
+vervolgens aan deze standaard koppelen.
+
+Zowel VNG Realisatie als leveranciers en gemeenten kunnen dan online
+reageren op de vraag en deze beantwoorden.
