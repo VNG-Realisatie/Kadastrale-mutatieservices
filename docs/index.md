@@ -6,6 +6,7 @@ title: StUF-koppelvlak Kadastrale mutatieservices
 
 **Actuele versie:** 1.0.0  
 **Beheerder:**  VNG Realisatie<br/>
+**Status:** In gebruik
 
 Actuele kadastrale gegevens zijn essentieel voor meerdere gemeentelijke taken. 
 Tot 1 januari 2016 leverde het Kadaster de kadastrale mutaties nog in MO-AKR- en LKI-formaat ('alfanumeriek' resp. 'grafisch') maar vanaf die datum worden de mutaties alleen nog in het op de [BRK afgestemde formaat](http://www.kadaster.nl/web/Themas/Registraties/BRK/BRK-Leveringartikelen/BRK-Levering-vervangt-Massale-output.htm) (BRK Levering) geleverd. 
